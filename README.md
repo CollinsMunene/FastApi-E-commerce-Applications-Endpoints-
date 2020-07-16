@@ -100,7 +100,7 @@ uvicorn main:app --reload
 
 👤 **Collins H. Munene**
 
-* Website: collinsmunene.github.io/collinshillary.github.io/
+* Website: [My portfolio](https://collinsmunene.github.io/collinshillary.github.io/)
 * Twitter: [@Hillary Collins](https://twitter.com/HillaryCollns)
 * Github: [@Collins Munene](https://github.com/CollinsMunene)
 * LinkedIn: [@Collins Munene](https://linkedin.com/in/collins-hillary-munene)
