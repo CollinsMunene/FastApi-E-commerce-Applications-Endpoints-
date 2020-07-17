@@ -87,7 +87,7 @@ The above piece of code handles the <b>get_item_by_id call</b> and queries the <
 ```sh
 git clone 
 source fastapienv/bin/activate
-pip install -re requirements.txt
+pip install -r requirements.txt
 cd sql_app
 ```
 
