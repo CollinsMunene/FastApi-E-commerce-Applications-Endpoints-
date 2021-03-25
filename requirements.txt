@@ -27,7 +27,7 @@ protobuf==3.12.2
 pycparser==2.20
 pydantic==1.6
 python-multipart==0.0.5
-PyYAML==5.3.1
+PyYAML==5.4
 requests==2.24.0
 Rx==1.6.1
 six==1.15.0
