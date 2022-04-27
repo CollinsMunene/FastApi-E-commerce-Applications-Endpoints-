@@ -23,7 +23,7 @@ mysql-connector-python==8.0.21
 mysqlclient==2.0.1
 orjson==3.2.2
 promise==2.3
-protobuf==3.12.2
+protobuf==3.15.0
 pycparser==2.20
 pydantic==1.6
 python-multipart==0.0.5
